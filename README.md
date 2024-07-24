@@ -1,7 +1,7 @@
 - 🍊 Hi, I’m @MandarineLab
 - 🍊 I’m interested in statistics 
 - 🍊 I’m currently learning data analysis
-- 🍊 How to reach me a20202209@pucp.edu.pe
+- 🍊 How to reach me chipana.l@pucp.edu.pe
 - 🍊 Pronouns: she/her
 - 🍊 Fun fact: can you imagine a mandarin laboratory?
 
