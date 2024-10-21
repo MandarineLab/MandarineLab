@@ -1,7 +1,8 @@
-## Hi there 👋
+## 👋 Hi. I'm Leydi! 
 
 # 💫 About Me:
-I'm an Economics student at Pontifical Catholic University of Peru (PUCP)<br>📫 How to reach me: chipana.l@pucp.edu.pe<br>
+
+I'm an Economics student at [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/)<br>📫 How to reach me: chipana.l@pucp.edu.pe<br>
 
 
 ## 🌐 Socials:
