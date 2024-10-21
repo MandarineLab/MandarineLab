@@ -2,7 +2,9 @@
 
 # 💫 About Me:
 
-I'm an Economics student at [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/)<br>📫 How to reach me: chipana.l@pucp.edu.pe<br>
+📚I'm an Economics student at [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/)<br>
+💻Sharing my university projects and other personal work
+📫 How to reach me: chipana.l@pucp.edu.pe<br>
 
 
 ## 🌐 Socials:
