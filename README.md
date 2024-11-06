@@ -2,10 +2,10 @@
 
 # 💫 About Me:
 
-📚I'm an Economics student at [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/)<br>
-💻Sharing my university projects and other personal work<br>
-📫 How to reach me: chipana.l@pucp.edu.pe<br>
-
+📚  I'm an Economics student at [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/)<br>
+📊  Enthused by statistics and microeconomics, with a focus on digital financial inclusion.
+💻  Sharing my university projects and other personal work<br>
+📫  How to reach me: chipana.l@pucp.edu.pe<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leydi-conzuelo-chipana-cangana-1b8202326/) 
@@ -22,14 +22,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!--
 **MandarineLab/MandarineLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
