@@ -24,12 +24,12 @@
   <tr border="none">
     <td width="25%" align="center">
       <p align="center">
-       <a href="ahttps://app.powerbi.com/view?r=eyJrIjoiYTkxODQ1YjEtZTRlZi00OTk2LThiNzgtMzYzNmRjOWQzZmIzIiwidCI6ImQwMGQ4MDc3LTkwMjEtNDc1YS1iMzE3LTQ3M2U5YjcyN2UwYiIsImMiOjR9&pageName=b6875c9603e00d7bc70e" title="Go to Source">
+       <a href="https://app.powerbi.com/view?r=eyJrIjoiYTkxODQ1YjEtZTRlZi00OTk2LThiNzgtMzYzNmRjOWQzZmIzIiwidCI6ImQwMGQ4MDc3LTkwMjEtNDc1YS1iMzE3LTQ3M2U5YjcyN2UwYiIsImMiOjR9&pageName=b6875c9603e00d7bc70e" title="Go to Source">
           <img align="center" width=100% height="220" src="https://github.com/user-attachments/assets/d28d892b-2157-4a8a-b753-e2c1e9944b4f" alt="IMAGEN" /></a>
         </p>
       <p align="center">
-        <a href="ahttps://github.com/Alicbm/cepal_scraping" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="ahttps://www.linkedin.com/feed/update/urn:li:activity:7279290251473256448/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+        <a href="https://github.com/MandarineLab/digital-payment-system-BCRP/tree/main" target="blank"><img align="center" src="https://github.com/MandarineLab/digital-payment-system-BCRP/blob/main/Pagos_Digitales_BCRP/capture.PNG" /></a>
+        <a href="https://www.linkedin.com/in/leydi-conzuelo-chipana-cangana-1b8202326/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       </p> 
 
 
