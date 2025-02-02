@@ -31,7 +31,7 @@
         <a href="https://github.com/MandarineLab/digital-payment-system-BCRP/tree/main" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
         <a href="https://www.linkedin.com/in/leydi-conzuelo-chipana-cangana-1b8202326/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       </p> 
-  <tr border="none">
+    </td>
     <td width="25%" align="center">
       <p align="center">
        <a href="https://app.powerbi.com/view?r=eyJrIjoiOWQ3Njg4ZWYtZTI4Mi00NDg0LTk1ZDMtNDQwNDhhMTQzNjQ1IiwidCI6ImQwMGQ4MDc3LTkwMjEtNDc1YS1iMzE3LTQ3M2U5YjcyN2UwYiIsImMiOjR9" title="Go to Source">
@@ -40,7 +40,8 @@
       <p align="center">
         <a href="https://github.com/MandarineLab/Chronic_child_malnutrition_rate" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
         <a href="https://www.linkedin.com/in/leydi-conzuelo-chipana-cangana-1b8202326/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
+      </p> 
+    </td>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><!--
 **MandarineLab/MandarineLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
