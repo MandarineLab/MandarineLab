@@ -7,7 +7,7 @@
 📚  I'm an Economics student at [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/)<br>
 📊  Enthused by statistics and microeconomics, with a focus on digital financial inclusion<br>
 💻  Sharing my university projects and other personal work https://mandarinelab.github.io/portafolio/<br>
-📫  How to reach me: chipana.l@pucp.edu.pe<br 
+📫  How to reach me: chipana.l@pucp.edu.pe<br> 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leydi-conzuelo-chipana-cangana-1b8202326/) 
