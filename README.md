@@ -32,7 +32,7 @@ Thanks for stopping by!
     <td width="20%" align="center">
       <p align="center">
        <a href="https://app.powerbi.com/view?r=eyJrIjoiYTkxODQ1YjEtZTRlZi00OTk2LThiNzgtMzYzNmRjOWQzZmIzIiwidCI6ImQwMGQ4MDc3LTkwMjEtNDc1YS1iMzE3LTQ3M2U5YjcyN2UwYiIsImMiOjR9&pageName=b6875c9603e00d7bc70e" title="Go to Source">
-          <img align="center" width=100% height="200" src="https://github.com/MandarineLab/digital-payment-system-BCRP/blob/main/Pagos_Digitales_BCRP/capture.PNG" alt="IMAGEN" /></a>
+          <img align="center" width=100% height="150" src="https://github.com/MandarineLab/digital-payment-system-BCRP/blob/main/Pagos_Digitales_BCRP/capture.PNG" alt="IMAGEN" /></a>
         </p>
       <p align="center">
         <a href="https://github.com/MandarineLab/digital-payment-system-BCRP/tree/main" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -43,7 +43,7 @@ Thanks for stopping by!
     <td width="20%" align="center">
       <p align="center">
        <a href="https://app.powerbi.com/view?r=eyJrIjoiOWQ3Njg4ZWYtZTI4Mi00NDg0LTk1ZDMtNDQwNDhhMTQzNjQ1IiwidCI6ImQwMGQ4MDc3LTkwMjEtNDc1YS1iMzE3LTQ3M2U5YjcyN2UwYiIsImMiOjR9" title="Go to Source">
-          <img align="center" width=100% height="200" src="https://github.com/MandarineLab/Chronic_child_malnutrition_rate/blob/main/Elements/Dashboard.png" alt="IMAGEN" /></a>
+          <img align="center" width=100% height="150" src="https://github.com/MandarineLab/Chronic_child_malnutrition_rate/blob/main/Elements/Dashboard.png" alt="IMAGEN" /></a>
         </p>
       <p align="center">
         <a href="https://github.com/MandarineLab/Chronic_child_malnutrition_rate" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -54,7 +54,7 @@ Thanks for stopping by!
     <td width="20%" align="center">
       <p align="center">
        <a href="https://app.powerbi.com/view?r=eyJrIjoiNmZkMjYzMzAtYzlkOS00NmNkLWJmYzktZTg2ZDU4NTEwODY0IiwidCI6ImQwMGQ4MDc3LTkwMjEtNDc1YS1iMzE3LTQ3M2U5YjcyN2UwYiIsImMiOjR9" title="Go to Source">
-          <img align="center" width=100% height="200" src="https://github.com/MandarineLab/PowerBi-PIT/blob/main/elements/captura.png" alt="IMAGEN" /></a>
+          <img align="center" width=100% height="150" src="https://github.com/MandarineLab/PowerBi-PIT/blob/main/elements/captura.png" alt="IMAGEN" /></a>
         </p>
       <p align="center">
         <a href="https://github.com/MandarineLab/PowerBi-PIT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
