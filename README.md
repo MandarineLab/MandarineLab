@@ -24,7 +24,7 @@ Thanks for stopping by!
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-------------------------->
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+<h2 >Relevant Projects👨🏻‍💻</h2>
 
 <table align="left" >
   
@@ -39,6 +39,7 @@ Thanks for stopping by!
         <a href="https://www.linkedin.com/in/leydi-conzuelo-chipana-cangana-1b8202326/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       </p> 
     </td>
+<!-------------------------->
     <td width="25%" align="center">
       <p align="center">
        <a href="https://app.powerbi.com/view?r=eyJrIjoiOWQ3Njg4ZWYtZTI4Mi00NDg0LTk1ZDMtNDQwNDhhMTQzNjQ1IiwidCI6ImQwMGQ4MDc3LTkwMjEtNDc1YS1iMzE3LTQ3M2U5YjcyN2UwYiIsImMiOjR9" title="Go to Source">
@@ -46,6 +47,17 @@ Thanks for stopping by!
         </p>
       <p align="center">
         <a href="https://github.com/MandarineLab/Chronic_child_malnutrition_rate" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://www.linkedin.com/in/leydi-conzuelo-chipana-cangana-1b8202326/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      </p> 
+    </td>
+<!-------------------------->
+    <td width="25%" align="center">
+      <p align="center">
+       <a href="https://app.powerbi.com/view?r=eyJrIjoiNmZkMjYzMzAtYzlkOS00NmNkLWJmYzktZTg2ZDU4NTEwODY0IiwidCI6ImQwMGQ4MDc3LTkwMjEtNDc1YS1iMzE3LTQ3M2U5YjcyN2UwYiIsImMiOjR9" title="Go to Source">
+          <img align="center" width=100% height="220" src="https://github.com/MandarineLab/PowerBi-PIT/blob/main/elements/captura.png" alt="IMAGEN" /></a>
+        </p>
+      <p align="center">
+        <a href="https://github.com/MandarineLab/PowerBi-PIT" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
         <a href="https://www.linkedin.com/in/leydi-conzuelo-chipana-cangana-1b8202326/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
       </p> 
     </td>
